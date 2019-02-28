@@ -1,0 +1,8 @@
+Credentials cache: API:43996762-2C8D-4B0E-B82C-C09DCB5817C8
+        Principal: asablayr@42.FR
+
+  Issued                Expires               Principal
+Feb  5 14:10:44 2019  Feb 12 14:10:44 2019  krbtgt/42.FR@42.FR
+Feb  5 14:10:46 2019  Feb 12 14:10:44 2019  ldap/ldap-proxy.42.fr@42.FR
+Feb  5 14:10:46 2019  Feb 12 14:10:44 2019  HTTP/student-storage-1.42.fr@42.FR
+Feb  5 14:35:27 2019  Feb 12 14:10:44 2019  host/vgs-fn1.42.fr@42.FR
